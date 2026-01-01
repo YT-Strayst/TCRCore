@@ -6,7 +6,7 @@
   "trail": {
     "color": [230, 230, 230],
     "begin_pos": [0.0, 0.24, -0.8],
-    "end_pos": [0.0, 0.24, -2.25],
+    "end_pos": [0.0, 0.24, -2.4],
     "lifetime": 4,
     "interpolations": 2,
     "texture_path": "efn:textures/trail/meenlance.png",
