@@ -60,6 +60,8 @@
   "block.tcrcore.monst_altar_block": "Monst Altar",
   "block.tcrcore.storm_altar_block": "Storm Altar",
   "block.tcrcore.void_altar_block": "Void Altar",
+  "effect.tcrcore.invulnerable": "Invulnerable",
+  "effect.tcrcore.soul_incinerator": "Soul Fire",
   "entity.minecraft.iron_golem.tcrcore.answer0": "Man, are you ready？",
   "entity.minecraft.iron_golem.tcrcore.option0": "Yes",
   "entity.minecraft.iron_golem.tcrcore.option1": "Wait",

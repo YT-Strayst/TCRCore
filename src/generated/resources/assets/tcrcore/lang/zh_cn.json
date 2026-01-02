@@ -60,6 +60,8 @@
   "block.tcrcore.monst_altar_block": "恶兽祭坛",
   "block.tcrcore.storm_altar_block": "风暴祭坛",
   "block.tcrcore.void_altar_block": "虚空祭坛",
+  "effect.tcrcore.invulnerable": "无敌",
+  "effect.tcrcore.soul_incinerator": "灵魂火",
   "entity.minecraft.iron_golem.tcrcore.answer0": "人类，准备好接受试炼了？",
   "entity.minecraft.iron_golem.tcrcore.option0": "确定",
   "entity.minecraft.iron_golem.tcrcore.option1": "再等等",

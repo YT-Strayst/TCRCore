@@ -7,6 +7,7 @@ import com.p1nero.tcrcore.block.TCRBlocks;
 import com.p1nero.tcrcore.capability.TCRTaskManager;
 import com.p1nero.tcrcore.client.KeyMappings;
 import com.p1nero.tcrcore.client.gui.BanPortalScreenHandler;
+import com.p1nero.tcrcore.effect.TCREffects;
 import com.p1nero.tcrcore.entity.TCREntities;
 import com.p1nero.tcrcore.item.TCRItems;
 import com.p1nero.tcrcore.worldgen.TCRBiomes;
@@ -27,6 +28,9 @@ public class    TCRZHLangGenerator extends TCRLangProvider {
 
     @Override
     protected void addTranslations() {
+
+        this.addEffect(TCREffects.INVULNERABLE, "无敌");
+        this.addEffect(TCREffects.SOUL_INCINERATOR, "灵魂火");
 
         this.add("epicfight.skill_slot.passive4", "被动4");
         this.add("epicfight.skill_slot.passive5", "被动5");
