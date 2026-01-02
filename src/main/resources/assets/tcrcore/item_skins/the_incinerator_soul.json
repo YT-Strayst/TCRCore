@@ -4,7 +4,7 @@
     "begin_pos": [0.0, 0.0, -0.5],
     "end_pos": [0.0, -0.24, -3.0],
     "lifetime": 7,
-    "interpolations": 4,
+    "interpolations": 1,
     "texture_path": "tcrcore:textures/trail/yz2.png",
     "particle_type": "efn:bloom_trail"
   },
