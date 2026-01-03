@@ -10,7 +10,7 @@
   "ftbquests.chapter.252FC81556BE3D4B.quest2021770627758923696.description1": "Forged using &b{item.quark.diamond_heart}&r dropped by killing &6{entity.quark.stoneling}&r, then smelted into shape.",
   "ftbquests.chapter.252FC81556BE3D4B.quest2021770627758923696.description2": "Obtain from \u00266{block.lootr.lootr_inventory}\u0026r in specific structures",
   "ftbquests.chapter.252FC81556BE3D4B.quest2021770627758923696.description3": "Dropped with a chance by killing \u00266{entity.minecraft.pillager}\u0026r",
-  "ftbquests.chapter.252FC81556BE3D4B.quest2021770627758923696.description4": "Mine or obtain in the \u00264Blazing Illusion\u0026r",
+  "ftbquests.chapter.252FC81556BE3D4B.quest2021770627758923696.description4": "Mine or obtain in the \u00264{biome.cataclysm_dimension.nether_wastes}\u0026r",
   "ftbquests.chapter.252FC81556BE3D4B.quest2021770627758923696.description5": "Obtained by completing \u00266{itemGroup.bountiful}\u0026r",
   "ftbquests.chapter.252FC81556BE3D4B.quest2021770627758923696.subtitle": "Ideal Metamaterial Manifestation",
   "ftbquests.chapter.252FC81556BE3D4B.quest2169869265315588366.description1": "Dropped by killing \u00266{entity.fromtheshadows.bulldrogioth}\u0026r",
