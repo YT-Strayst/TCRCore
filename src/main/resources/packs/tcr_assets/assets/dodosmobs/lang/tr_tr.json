@@ -1,0 +1,12 @@
+{
+  "itemGroup.dodosmobs.item": "Dodo's Mobs Eşyaları",
+  "item.dodosmobs.amalgam_claws": "Amalgam Pençeleri",
+  "item.dodosmobs.chimera_armor_chestplate": "Kimera Göğüslüğü",
+  "item.dodosmobs.chimera_claw": "Kimera Pençesi",
+  "item.dodosmobs.bone_chimera_spawn_egg": "Kemik Kimera Çağırma Yumurtası",
+  "entity.dodosmobs.bone_chimera": "Kemik Kimera",
+  "effect.dodosmobs.wound": "Yara",
+  "death.attack.dodosmobs.wound": "yaralarından dolayı öldü",
+  "death.attack.dodosmobs.wound.player": "yaralarından dolayı öldü",
+  "entity.dodosmobs.dead_horn": "Ölü Boynuz"
+}
