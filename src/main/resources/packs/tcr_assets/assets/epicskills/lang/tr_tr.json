@@ -1,0 +1,59 @@
+{
+  "chat.epicskills.unlock_notification": "Yeni yetenek ağacının kilidi açıldı",
+  "chat.epicskills.messages.no_page": "Yetenek ağacı sayfası yok",
+
+  "gui.epicskills.messages.change_skill_one": "%d yeteneği %d ile değiştirilsin mi?",
+  "gui.epicskills.messages.change_skill_multiple": "Öğrenilen bir yetenek %d ile değiştirilsin mi?",
+
+  "gui.epicskills.skill_tree": "Yetenek Ağacı Arayüzü",
+  "gui.epicskills.skill_tree.imported_node": "Bu yetenek şuradan geliyor: %s",
+
+  "gui.epicskills.exp_meter.tooltip": "Yetenek puanına dönüştürmek için Mevcut/Gerekli TP",
+  "gui.epicskills.abilitypoints.tooltip": "Yetenek Puanı",
+  "gui.epicskills.openskilleditor.tooltip": "Öğrenilen yetenekleri görüntüle",
+
+  "gui.epicskills.skillinfo.unlock": "Kilidi Aç",
+  "gui.epicskills.skillinfo.locked": "Kilitli",
+  "gui.epicskills.skillinfo.equip": "Kuşan",
+  "gui.epicskills.skillinfo.unequip": "Çıkar",
+
+  "gui.epicskills.skillinfo.no_ability_points.tooltip": "Bu yetenek %s yetenek puanı gerektiriyor (Mevcut: %s)",
+  "gui.epicskills.skillinfo.locked.tooltip": "Bu yetenek kilitli",
+  "gui.epicskills.skillinfo.already_equipping.tooltip": "Bu yeteneği zaten kuşandın",
+
+  "item.epicskills.ability_stone": "Yetenek Taşı",
+
+  "skill_tree.epicskills.battleborn": "Savaşçı Soyu",
+  "skill_tree.epicskills.infernal_might": "Cehennem Kudreti",
+  "skill_tree.epicskills.infernal_might.unlock_tip": "Daha derin dünyalarda lanetli gücü ara",
+
+  "unlock_tip.epicskills.battleborn.meteor_slam": "Ender Ejderhasını yen",
+
+  "commands.epicskills.failed.no_players": "Eşleşen oyuncu bulunamadı",
+  "commands.epicskills.abilitypoints.success.single": "%s oyuncusunun yetenek puanı %s olarak ayarlandı",
+  "commands.epicskills.abilitypoints.success.others": "%s hedefin yetenek puanı ayarlandı",
+  "commands.epicskills.abilitypoints.reset_exp_requirement.success.single": "%s oyuncusunun deneyim gereksinimi sıfırlandı",
+  "commands.epicskills.abilitypoints.reset_exp_requirement.success.others": "%s hedefin deneyim gereksinimi sıfırlandı",
+  "commands.epicskills.abilitypoints.value.get.success": "%s oyuncusunun yetenek puanı değeri: %s",
+  "commands.epicskills.abilitypoints.value.get.fail": "%s oyuncusunun yetenek puanı yok",
+  "commands.epicskills.skilltree_progression.reset.success.single": "%s oyuncusunun yetenek ağacı sıfırlandı",
+  "commands.epicskills.skilltree_progression.reset.success.other": "%s hedefin yetenek ağacı sıfırlandı",
+  "commands.epicskills.skilltree_progression.unlock.success.single": "%s için %s yetenek ağacındaki %s kilidi açıldı",
+  "commands.epicskills.skilltree_progression.unlock.success.other": "%s hedef için %s yetenek ağacındaki %s kilidi açıldı",
+  "commands.epicskills.skilltree_progression.unlock.failed": "Düğümün kilidi açılamadı. Bitişik düğümlerin durumu kilit açma işlemini engelliyor",
+  "commands.epicskills.skilltree_progression.lock.success.single": "%s için %s yetenek ağacındaki %s kilitlendi",
+  "commands.epicskills.skilltree_progression.lock.success.other": "%s hedef için %s yetenek ağacındaki %s kilitlendi",
+  "commands.epicskills.skilltree_progression.lock.failed": "Düğüm kilitlenemedi. Bitişik düğümlerin durumu kilitleme işlemini engelliyor",
+  "commands.epicskills.skilltree_progression.unlock_tree.success.single": "%s için %s kilidi açıldı",
+  "commands.epicskills.skilltree_progression.unlock_tree.success.other": "%s hedef için %s kilidi açıldı",
+  "commands.epicskills.skilltree_progression.lock_tree.success.single": "%s için %s kilitlendi",
+  "commands.epicskills.skilltree_progression.lock_tree.success.other": "%s hedef için %s kilitlendi",
+  "commands.epicskills.skilltree_progression.lock_tree.failed": "Yetenek ağacı kilitlenemedi. Lütfen tüm düğümleri temizleyin veya zorlama seçeneğini true (doğru) olarak ayarlayın",
+  "commands.epicskills.skilltree_progression.failed": "Geçersiz oyuncu verisi nedeniyle komut başarısız oldu",
+
+  "key.epicskills.gui": "Epic Fight: Yetenek Ağacı Arayüzü",
+
+  "key.epicskills.open_skill_tree": "Yetenek Ağacını Aç",
+
+  "eof": "Dosya Sonu"
+}
