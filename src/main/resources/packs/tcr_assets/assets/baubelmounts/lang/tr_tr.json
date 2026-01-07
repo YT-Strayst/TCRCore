@@ -1,0 +1,18 @@
+{
+  "item.baublemounts.mount_bauble" : "Binek Süsü",
+  "item.baublemounts.mount_bauble_broken" : "Hasarlı Binek Süsü",
+  "item.baublemounts.vehicle_bauble": "Araç Anahtarı",
+  "item.baublemounts.vehicle_bauble_broken": "Hasarlı Araç Anahtarı",
+  "curios.identifier.mountbauble": "Binek Süsü",
+  "key.baublemounts.mountsummon": "Binek Çağır",
+  "key.categories.baublemounts": "Bauble Mounts Modu",
+  "tooltip.baublemounts.getname" : "Binek Adı: %s",
+  "tooltip.baublemounts.gethealth" : "Binek Canı: %s",
+  "tooltip.baublemounts.desc" : "§oAyrıntılar için Shift'e basılı tutun",
+  "tooltip.baublemounts.shiftdesc" : "Bu eşya elinizdeyken bir bineğe sağ tıklayarak onu depolayın. Daha sonra tekrar sağ tıklayarak bineği serbest bırakabilir veya onu §eBinek Süsü§r yuvasına yerleştirebilirsiniz. Bineği yuvadan çağırmak veya geri göndermek için %s tuşuna basın",
+  "tooltip.baublemounts.shiftdescbroken" : "Bu süs hasar gördü çünkü içindeki binek dışarıdayken öldü. Üretim masasında onararak bineği tekrar çağırabilirsiniz.",
+  "tooltip.baublemounts.vehicleshiftdesc" : "Bu eşya elinizdeyken bir araca sağ tıklayarak onu depolayın. Daha sonra tekrar sağ tıklayarak aracı serbest bırakabilir veya onu §eBinek Süsü§r yuvasına yerleştirebilirsiniz. Aracı yuvadan çağırmak veya geri göndermek için %s tuşuna basın",
+  "tooltip.baublemounts.vehicleshiftdescbroken" : "Bu anahtar hasar gördü çünkü içindeki araç dışarıdayken yok oldu. Üretim masasında onararak aracı tekrar çağırabilirsiniz.",
+  "sounds.baublemounts.mount_summon": "Binek Çağırma",
+  "sounds.baublemounts.mount_unsummon": "Binek Gönderme"
+}
