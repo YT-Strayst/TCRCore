@@ -1,0 +1,203 @@
+{
+  "item.uniqueaccessories.championship_belt": "Şampiyon Kemeri",
+  "item.uniqueaccessories.royal_honeycomb": "Kraliyet Peteği",
+  "item.uniqueaccessories.golden_egg_charm": "Altın Yumurta",
+  "item.uniqueaccessories.snow_golem_doll": "Kar Golemi Oyuncağı",
+  "item.uniqueaccessories.strong_sticky_slime_ball": "Güçlü Yapışkan Balçık Topu",
+  "item.uniqueaccessories.tool_belt": "Alet Kemeri",
+  "item.uniqueaccessories.ancient_chisel": "Kadim Keski",
+  "item.uniqueaccessories.black_belt": "Siyah Kuşak",
+  "item.uniqueaccessories.shiny_stone": "Parlak Taş",
+  "item.uniqueaccessories.life_jacket_belt": "Can Yeleği Kemeri",
+  "item.uniqueaccessories.survival_belt": "Hayatta Kalma Kemeri",
+  "item.uniqueaccessories.starved_wolf_skull": "Aç Kurt Kafatası",
+  "item.uniqueaccessories.tabi": "Tabi",
+  "item.uniqueaccessories.magick_quiver": "Büyülü Sadak",
+  "item.uniqueaccessories.withered_heart": "Solmuş Kalp",
+  "item.uniqueaccessories.moon_stone": "Ay Taşı",
+  "item.uniqueaccessories.sun_stone": "Güneş Taşı",
+  "item.uniqueaccessories.fossil_shark_tooth": "Fosilleşmiş Köpekbalığı Dişi",
+  "item.uniqueaccessories.soul_gem": "Ruh Cevheri",
+  "item.uniqueaccessories.devils_eyeball": "Şeytan Gözü",
+  "item.uniqueaccessories.supreme_meat": "Üstün Et",
+  "item.uniqueaccessories.amplifier_stone": "Yükseltici Taş",
+  "item.uniqueaccessories.silver_cat_tail": "Gümüş Kedi Kuyruğu",
+  "item.uniqueaccessories.cursed_doll_head": "Lanetli Bebek Kafası",
+  "item.uniqueaccessories.waist_warmer": "Bel Isıtıcı",
+  "item.uniqueaccessories.small_propulsion_device": "Küçük İtki Cihazı",
+  "item.uniqueaccessories.sharp_fishing_hook": "Keskin Balık İğnesi",
+  "item.uniqueaccessories.rocket_shoes": "Roket Ayakkabıları",
+  "item.uniqueaccessories.blade_shoes": "Bıçaklı Ayakkabılar",
+  "item.uniqueaccessories.durable_spring": "Dayanıklı Yay",
+  "item.uniqueaccessories.hero_emblem": "Kahraman Amblemi",
+  "item.uniqueaccessories.burning_soul": "Yanan Ruh",
+  "item.uniqueaccessories.anklet_of_fortune": "Şans Halhalı",
+  "item.uniqueaccessories.all_purpose_seasoning": "Çok Amaçlı Çeşni",
+  "item.uniqueaccessories.suspicious_mushroom": "Şüpheli Mantar",
+  "item.uniqueaccessories.bloody_knife": "Kanlı Bıçak",
+  "item.uniqueaccessories.large_paddle": "Büyük Kürek",
+  "item.uniqueaccessories.still_beating_heart": "Hâlâ Atan Kalp",
+  "item.uniqueaccessories.rose_of_temptation": "Cazibe Gülü",
+
+  "item.uniqueaccessories.ninjutsu_manual": "Ninjutsu El Kitabı",
+  "item.uniqueaccessories.master_ninja_tabi": "Usta Ninja Tabi'si",
+
+  "curios.identifier.feet": "Ayak",
+  "curios.modifiers.feet": "Ayaklara giyildiğinde:",
+
+  "entity.uniqueaccessories.golden_egg": "Altın Yumurta",
+
+  "creativetab.unique_accessories_tab": "Eşsiz Aksesuarlar",
+
+
+  "tooltip.uniqueaccessories.hold_shift": "Ayrıntılar için Shift'e basılı tutun",
+
+  "tooltip.uniqueaccessories.golden_egg_charm.desc1": "Yumurta fırlatırken, normal yumurta yerine Altın Yumurta fırlatır",
+  "tooltip.uniqueaccessories.golden_egg_charm.desc2": "Altın Yumurta: Saldırı gücü %s, düştüğü yerde Altın Bloğu oluşturur",
+
+  "tooltip.uniqueaccessories.championship_belt.desc1": "Çıplak el hasarı +%1$s / Çıplak el saldırı hızı +%2$s",
+  "tooltip.uniqueaccessories.championship_belt.desc2": "Her boş zırh yuvası için: Savunma +%1$s / Hareket hızı +%2$s%% / Kaçınma oranı +%3$s%% / Geri tepme direnci +%4$s%%",
+
+  "tooltip.uniqueaccessories.snow_golem_doll.desc1": "Kartopu hasarı +%1$s",
+  "tooltip.uniqueaccessories.snow_golem_doll.desc2": "Eğilirken, ayakların altında kar oluşturur",
+
+  "tooltip.uniqueaccessories.amplifier_stone.desc1": "Keçi boynuzu kullanıldığında, patlama sesi çıkarır ve %1$s metre yarıçapındaki canlılara %2$s hasar verir",
+
+  "tooltip.uniqueaccessories.tool_belt.desc1": "Blok etkileşim menzili +%1$s metre",
+  "tooltip.uniqueaccessories.tool_belt.desc2": "Blok yerleştirme hızı +%100",
+
+  "tooltip.uniqueaccessories.ancient_chisel.desc1": "Kazma hızı +%s%%",
+
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc1": "Hareket hızı +%15",
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc2": "Aynı yön tuşuna hızlıca iki kez basarak uzun mesafeli atılma (dash) yap",
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc3": "Atılmayı kullanmak için tokluk seviyesinin 7'nin üzerinde olması gerekir",
+
+
+  "tooltip.uniqueaccessories.royal_honeycomb.desc1": "Canlıların saldırısına uğradığında, 8 saniyeliğine güçlendirilmiş arılar çağırır",
+
+  "tooltip.uniqueaccessories.strong_sticky_slime_ball.desc1": "Geri tepme direnci +%10 / Hareket hızı -%10",
+  "tooltip.uniqueaccessories.strong_sticky_slime_ball.desc2": "Duvarlara tırmanabilir, eğilirken olduğu yerde sabitlenebilir",
+
+  "tooltip.uniqueaccessories.black_belt.desc1": "Kaçınma oranı +%s%%",
+  "tooltip.uniqueaccessories.black_belt.desc2": "Başarılı kaçınmada: 5 saniyeliğine, Saldırı gücü +4 / Hareket hızı +%20",
+
+  "tooltip.uniqueaccessories.shiny_stone.desc1": "2 saniye hareketsiz kaldıktan sonra, canı hızla yeniler",
+
+  "tooltip.uniqueaccessories.life_jacket_belt.desc1": "Suda hızla yüzeye çıkar ve su yüzeyinde kalmayı sağlar",
+
+  "tooltip.uniqueaccessories.survival_belt.desc1": "Adım yüksekliği +0.5",
+  "tooltip.uniqueaccessories.survival_belt.desc2": "Hayvanlardan düşen ganimet miktarını artırır",
+  "tooltip.uniqueaccessories.survival_belt.desc3": "Eğilirken çıplak elle bir bloğa sağ tıklamak ateş yakar",
+  "tooltip.uniqueaccessories.survival_belt.desc4": "Ateşin yanında hareketsiz dururken, her 2 saniyede 1 can yeniler",
+
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc1": "Sürekli Açlık etkisi verir, ancak yakın dövüş saldırıları %1$s can yeniler",
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc2": "Tokluk 6'nın altındayken: Hareket hızı +%1$s%%",
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc3": "Tokluk 0 iken: Saldırı gücü +%1$s",
+
+  "tooltip.uniqueaccessories.tabi.desc1": "Yürüme hızı +%10",
+  "tooltip.uniqueaccessories.tabi.desc2": "Aynı yön tuşuna hızlıca iki kez basarak atılma (dash) yap",
+  "tooltip.uniqueaccessories.tabi.desc3": "Atılmayı kullanmak için yerde duruyor olmalı ve tokluk seviyesi 7'nin üzerinde olmalıdır",
+
+  "tooltip.uniqueaccessories.magick_quiver.desc1": "Ok hasarı +%s%% / Ok hızı +%s%%",
+
+  "tooltip.uniqueaccessories.withered_heart.desc1": "Maksimum canı 1 olarak sabitler",
+
+  "tooltip.uniqueaccessories.moon_stone.desc1": "Sadece gece aşağıdaki güçlendirmeleri verir",
+  "tooltip.uniqueaccessories.moon_stone.desc2": "Saldırı gücü +%1$s / Ok hasarı +%2$s%% / Saldırı hızı +%3$s",
+  "tooltip.uniqueaccessories.moon_stone.desc3": "Savunma +%1$s / Kritik oranı +%2$s%% / Kazma hızı +%3$s%%",
+  "tooltip.uniqueaccessories.moon_stone.desc4": "Her %1$s saniyede 1 can yeniler",
+
+  "tooltip.uniqueaccessories.sun_stone.desc1": "Sadece gündüz aşağıdaki güçlendirmeleri verir",
+  "tooltip.uniqueaccessories.sun_stone.desc2": "Saldırı gücü +%1$s / Ok hasarı +%2$s%% / Saldırı hızı +%3$s",
+  "tooltip.uniqueaccessories.sun_stone.desc3": "Savunma +%1$s / Kritik oranı +%2$s%% / Kazma hızı +%3$s%%",
+  "tooltip.uniqueaccessories.sun_stone.desc4": "Her %1$s saniyede 1 can yeniler",
+
+  "tooltip.uniqueaccessories.large_paddle.desc1": "Tekne hareket hızı +%50",
+
+  "tooltip.uniqueaccessories.bloody_knife.desc1": "Canlılara arkadan saldırıldığında, verilen hasar %30 artar",
+
+  "tooltip.uniqueaccessories.fossil_shark_tooth.desc1": "Zırh delme +%s",
+
+  "tooltip.uniqueaccessories.soul_gem.desc1": "Bir canlıyı öldürdüğünde, %1$s can yeniler",
+
+  "tooltip.uniqueaccessories.devils_eyeball.desc1": "Kritik hasar +%1$s%% / Kritik oranı +%2$s%%",
+
+  "tooltip.uniqueaccessories.supreme_meat.desc1": "Takip eden evcil kurtları güçlendirir: Saldırı gücü +%1$s / Savunma +%2$s / Hareket hızı +%3$s%%",
+
+  "tooltip.uniqueaccessories.silver_cat_tail.desc1": "Depar hızı +%s%%",
+  "tooltip.uniqueaccessories.silver_cat_tail.desc2": "Ölümcül olmayan düşme hasarına bağışıklık",
+
+  "tooltip.uniqueaccessories.cursed_doll.desc1": "Her 20 saniyede, kendine ve %3$s metre yarıçapındaki canlılara 20 saniyelik rastgele bir zayıflatma etkisi uygular",
+
+  "tooltip.uniqueaccessories.waist_warmer.desc1": "Toz karın neden olduğu donma hasarına bağışıklık",
+  "tooltip.uniqueaccessories.waist_warmer.desc2": "Uyuyup sabah olduğunda, 10 can yeniler ve 2 dakika boyunca çeşitli güçlendirmeler verir",
+
+  "tooltip.uniqueaccessories.small_propulsion.desc1": "Fırlatılan nesne hızı +%1$s%%",
+
+  "tooltip.uniqueaccessories.sharp_fishing_hook.desc1": "Olta kancası çarptığında veya bir canlıdan geri çekildiğinde %1$s hasar verir",
+  "tooltip.uniqueaccessories.sharp_fishing_hook.desc2": "Oltanın canlıları çekme kuvvetini artırır",
+
+  "tooltip.uniqueaccessories.rocket_shoes.desc1": "Havadayken zıplama tuşuna basarak iticileri çalıştırıp yükselebilirsin",
+  "tooltip.uniqueaccessories.rocket_shoes.desc2": "Arka arkaya basmak yükselme gücünü artırır",
+  "tooltip.uniqueaccessories.rocket_shoes.desc3": "Maksimum %1$s saniye sürer, yere indikten sonra tekrar kullanılabilir",
+
+  "tooltip.uniqueaccessories.blade_shoes.desc1": "Ayaklarının altındaki bitkileri ve örümcek ağlarını yok eder",
+
+  "tooltip.uniqueaccessories.durable_spring.desc1": "Hareket hızı +%s%%",
+  "tooltip.uniqueaccessories.durable_spring.desc2": "Zıplama gücü artar",
+  "tooltip.uniqueaccessories.durable_spring.desc3": "Düşme hasarı alınan yüksekliği 7 blok ve üzerine çıkarır",
+
+
+  "tooltip.uniqueaccessories.hero_emblem.desc1": "Saldırı gücü +%1$s / Ok hasarı +%2$s%%",
+  "tooltip.uniqueaccessories.hero_emblem.desc2": "Can 8'in altındayken: Saldırı gücü +%1$s / Ok hasarı +%2$s%% / Hareket hızı +%3$s%%",
+  "tooltip.uniqueaccessories.hero_emblem.desc3": "Can 1 iken: Saldırı gücü +%1$s / Ok hasarı +%2$s%% / Kaçınma oranı +%3$s%% / Kritik oranı +%4$s%% / Zayıflatmalara bağışıklık",
+
+  "tooltip.uniqueaccessories.burning_soul.desc1": "Canı 0'ın altına düşürecek bir hasar alındığında, ölümü engellemek için oyuncu seviyesi harcar",
+  "tooltip.uniqueaccessories.burning_soul.desc2": "Her 1 hasar için %s seviye harcanır",
+
+  "tooltip.uniqueaccessories.anklet_of_fortune.desc1": "%s%% ihtimalle zayıflatma etkilerine bağışıklık",
+
+  "tooltip.uniqueaccessories.all_purpose_seasoning.desc1": "Yiyecek tüketildiğinde, 1 can ve fazladan 2 tokluk yeniler",
+
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc1": "Eğilirken hareket hızı +%200",
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc2": "Eğilme sırasında blok etkilerine bağışıklık kazanılır ve çevredeki canlıların seni fark etme mesafesi %60 azalır",
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc3": "Etkilenilmeyen bloklar: Örümcek ağı / Tatlı meyve çalısı / Kaktüs / Basınç plakası / Tuzak kancası ipi",
+
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc1": "Zayıflatma etkisi altındayken, tüm saldırıların hasarı %15 artar",
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc2": "Zayıflatma etkisi alındığında: 10 saniye boyunca, her 2 saniyede 1 can yeniler",
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc3": "Bu özellik etki sona erdikten sonra 10 saniye bekleme süresine girer",
+
+  "tooltip.uniqueaccessories.still_beating_heart.desc1": "Saldırı gücü +2",
+  "tooltip.uniqueaccessories.still_beating_heart.desc2": "Can tamamen doluyken, tüm saldırıların hasarı %20 artar",
+
+  "tooltip.uniqueaccessories.rose_of_temptation.desc1": "16 metre yarıçapındaki tarafsız canlıları kendine çeker",
+
+  "item.uniqueaccessories.accessory_box": "Aksesuar Kutusu",
+  "tooltip.uniqueaccessories.accessory_box.desc1": "Rastgele bir aksesuar içerir",
+  "tooltip.uniqueaccessories.accessory_box.desc2": "Seçkin: %80",
+  "tooltip.uniqueaccessories.accessory_box.desc3": "Nadir: %18",
+  "tooltip.uniqueaccessories.accessory_box.desc4": "Destansı: %2",
+
+  "adv.uniqueaccessories.get_any_accessory.title": "İlk Aksesuar",
+  "adv.uniqueaccessories.get_any_accessory.desc": "Herhangi bir aksesuar elde et",
+
+
+  "adv.uniqueaccessories.collect_05.title": "Acemi Koleksiyoncu",
+  "adv.uniqueaccessories.collect_05.desc": "5 farklı aksesuar elde et",
+  "adv.uniqueaccessories.collect_10.title": "Aksesuar Meraklısı",
+  "adv.uniqueaccessories.collect_10.desc": "10 farklı aksesuar elde et",
+  "adv.uniqueaccessories.collect_20.title": "Aksesuar Uzmanı",
+  "adv.uniqueaccessories.collect_20.desc": "20 farklı aksesuar elde et",
+  "adv.uniqueaccessories.collect_40.title": "Nihai Koleksiyoncu",
+  "adv.uniqueaccessories.collect_40.desc": "Tüm aksesuar türlerini elde et",
+
+  "adv.uniqueaccessories.get_accessory_box.title": "Açılış Töreni",
+  "adv.uniqueaccessories.get_accessory_box.desc": "Bir aksesuar kutusu elde et",
+
+  "adv.uniqueaccessories.get_epic_from_box.title": "Büyük İkramiye!!!",
+  "adv.uniqueaccessories.get_epic_from_box.desc": "Aksesuar kutusundan Destansı bir aksesuar çıkar",
+
+
+  "adv.uniqueaccessories.get_epic_accessory.title": "Bu Gerçekten İyi Bir Şey",
+  "adv.uniqueaccessories.get_epic_accessory.desc": "Herhangi bir Destansı aksesuar elde et"
+}
