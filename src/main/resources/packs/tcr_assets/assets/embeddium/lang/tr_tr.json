@@ -1,9 +1,0 @@
-{
-  "embeddium.conflicting_mod": "Embeddium, yüklü modlardan bazılarının görüntüleme sorunlarına veya çökmelere neden olabileceğini tespit etti; bunları kaldırmanız önerilir. Lütfen aşağıdaki listeye bakın.",
-  "embeddium.conflicting_mod_list": "[{2}]",
-  "embeddium.search_bar_empty": "Seçenekleri ara...",
-  "embeddium.options.added_by_mod_string": "Şu modlar tarafından eklendi: %s",
-  "embeddium.options.fullscreen.resolution.tooltip": "Tam ekran modunda oyunun çözünürlüğünü kontrol eder.",
-  "embeddium.options.use_quad_normals_for_lighting.name": "Hassas Dörtgen Gölgelendirmesi Kullan",
-  "embeddium.options.use_quad_normals_for_lighting.tooltip": "Etkinleştirildiğinde, Embeddium gölgelendirmeyi vanilya olmayan blok yüzeylerine, eksen hizalı yönleri yerine gerçek yönlerine göre uygular. Forge deneysel aydınlatma hattı devre dışı bırakıldığında bu seçenek aydınlatma kalitesini artırabilir (en iyi performans için açılması önerilir).\n\nDeneysel aydınlatma hattı etkinleştirildiyse, bu seçeneğin bir etkisi olmaz."
-}
